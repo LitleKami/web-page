@@ -136,6 +136,16 @@ p {
     text-color: #40514E ;
 }
 
+.hero-tech-img {
+    width: 100%;
+    max-width: 800px; /* Limits the width for better aesthetics */
+    height: auto;
+    margin-top: 50px;
+    border-radius: 20px; /* Gives it a modern, soft-corner look */
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1); /* Adds professional depth */
+}
+
+
 /* div-classes */
 
 .top {
@@ -257,4 +267,5 @@ p {
 }
 margin-bottom: 0;
 margin: 0;
+
 
